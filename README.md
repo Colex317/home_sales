@@ -1,4 +1,4 @@
-#Home Sales Challenge
+# Home Sales Challenge
 
 ## SparkSQL
 
