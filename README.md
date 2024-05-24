@@ -62,5 +62,5 @@ Home_Sales.ipynb.ipynb
 
 - What is the average price of a home per "view" rating having an average home price greater than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
 
-<img width="262" alt="image" src="https://github.com/Colex317/home_sales/assets/148498483/fe97522e-404e-4b40-a3aa-dfc4f7acb032">
+<img width="562" alt="image" src="https://github.com/Colex317/home_sales/assets/148498483/fe97522e-404e-4b40-a3aa-dfc4f7acb032">
 
