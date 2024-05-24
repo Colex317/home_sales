@@ -26,19 +26,20 @@ Home_Sales.ipynb.ipynb
 
 6. Check if the temporary table is cached.
 
-7. Use the cached data to run the last query (which calculates the average price of a home per "view" rating with an average home price greater than or equal to $350,000). Determine the runtime and compare it to the uncached runtime.
+7. Use the cached data to run the last query (which calculates the average price of a home per "view" rating with an average home price greater than or equal to $350,000).
+   **Determine the runtime and compare it to the uncached runtime.**
 
 8. Partition by the `"date_built"` field on the formatted parquet home sales data.
 
 9. Create a temporary table for the parquet data.
 
-10. Run the last query (which calculates the average price of a home per "view" rating with an average home price greater than or equal to $350,000). Determine the runtime and compare it to the uncached runtime.
+10. Run the last query (which calculates the average price of a home per "view" rating with an average home price greater than or equal to $350,000).
+    **Determine the runtime and compare it to the uncached runtime.**
 
 11. Uncache the home_sales temporary table.
 
 12. Verify that the home_sales temporary table is uncached using PySpark.
 
-13. Download the `Home_Sales.ipynb` file and upload it to the GitHub repository.
 
 
 ## Use SparkSQL to answer the following:
