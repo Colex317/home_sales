@@ -15,7 +15,7 @@ Home_Sales.ipynb.ipynb
 2. Read the `home_sales_revised.csv` data into a Spark DataFrame.
 
 
-<img width="650" alt="image" src="https://github.com/Colex317/home_sales/assets/148498483/0c5520f5-b437-4034-a18f-20784d0d5b9d">
+<img width="750" alt="image" src="https://github.com/Colex317/home_sales/assets/148498483/0c5520f5-b437-4034-a18f-20784d0d5b9d">
 
 
 3. Create a temporary table called `home_sales`.
