@@ -49,7 +49,7 @@ Home_Sales.ipynb.ipynb
 -------------------------------------------------------------------------------------------------------------------
 
 
-- What is the average price of a home for each year the home was built that has three bedrooms and three bathrooms? Round off your answer to two decimal places.
+- What is the average price of a home for each year the home was built that has three bedrooms and three bathrooms? 
 
 <img width="451" alt="image" src="https://github.com/Colex317/home_sales/assets/148498483/06a42bd2-f3ff-42b4-8e47-f65847856e41">
 
