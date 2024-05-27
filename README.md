@@ -44,14 +44,17 @@ Home_Sales.ipynb.ipynb
 
 ## Use SparkSQL to answer the following:
 
-- What is the average price for a four-bedroom house sold each year? Round off your answer to two decimal places.
-- 
+- What is the average price for a four-bedroom house sold each year?
+  
 -------------------------------------------------------------------------------------------------------------------
 
 
-- What is the average price of a home for each year the home was built that has three bedrooms and three bathrooms? 
+- What is the average price of a home for each year the home was built that has three bedrooms and three bathrooms?
 
-<img width="451" alt="image" src="https://github.com/Colex317/home_sales/assets/148498483/06a42bd2-f3ff-42b4-8e47-f65847856e41">
+  The average price of a home with three bedrooms and three bathrooms from 2010 to 2017 ranged from $288,770.30 to $295,962.27; the highest prices were for homes built in 2013, and the lowest were for homes built in 2015.
+
+<img width="754" alt="image" src="https://github.com/Colex317/home_sales/assets/148498483/be496873-728d-4ff4-a553-39a7eb677885">
+
 
 -------------------------------------------------------------------------------------------------------------------
 
