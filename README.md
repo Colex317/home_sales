@@ -78,7 +78,7 @@ The average price of a home per "view" rating, with an average home price greate
 
 The cached data run time was **0.5333 seconds**, which is 0.4191 seconds less than the uncached runtime.
 
-<img width="774" alt="image" src="https://github.com/Colex317/home_sales/assets/148498483/a0f9be6a-466b-4968-a9a0-013acc83e4ef">
+<img width="674" alt="image" src="https://github.com/Colex317/home_sales/assets/148498483/a0f9be6a-466b-4968-a9a0-013acc83e4ef">
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -86,4 +86,4 @@ The cached data run time was **0.5333 seconds**, which is 0.4191 seconds less th
 
 The **partitioned query runtime was 0.9847 seconds**, which is greater than the uncached runtime. This indicates that partitioning did not improve the query performance in this case. 
 
-<img width="778" alt="image" src="https://github.com/Colex317/home_sales/assets/148498483/d8108ba7-9fcf-4457-92b5-b9b37f6ca2fe">
+<img width="678" alt="image" src="https://github.com/Colex317/home_sales/assets/148498483/d8108ba7-9fcf-4457-92b5-b9b37f6ca2fe">
