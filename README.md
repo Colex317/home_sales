@@ -84,6 +84,6 @@ The cached data run time was **0.5333 seconds**, which is 0.4191 seconds less th
 
 ### Partition by the "date_built" field on the formatted parquet home sales data and create a temporary table for the parquet data. Run the last query (Question # 4 above). Determine the runtime and compare it to the uncached runtime.
 
-The **partitioned query runtime was 0.9847 seconds**, which was greater than the uncached runtime. This indicates that partitioning did not improve the query performance in this case. 
+The **partitioned query runtime was 0.9847 seconds**, which is greater than the uncached runtime. This indicates that partitioning did not improve the query performance in this case. 
 
 <img width="778" alt="image" src="https://github.com/Colex317/home_sales/assets/148498483/d8108ba7-9fcf-4457-92b5-b9b37f6ca2fe">
