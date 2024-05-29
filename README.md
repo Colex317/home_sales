@@ -42,7 +42,7 @@ Home_Sales.ipynb
 
 ### 1. What is the average price for a four-bedroom house sold each year?
 
-The average price for a four-bedroom house ranged from $296,050.24 to $307,908.86
+The average price for a four-bedroom house ranged from $296,050.24 to $307,908.86.
 
 <img width="795" alt="image" src="https://github.com/Colex317/home_sales/assets/148498483/a7edef75-5d14-45a2-bf4a-4678b34c4bc2">
 
