@@ -44,7 +44,8 @@ Home_Sales.ipynb
 
 The average price for a four-bedroom house ranged from $296,050.24 to $307,908.86.
 
-<img width="795" alt="image" src="https://github.com/Colex317/home_sales/assets/148498483/a7edef75-5d14-45a2-bf4a-4678b34c4bc2">
+<img width="898" alt="image" src="https://github.com/Colex317/home_sales/assets/148498483/807146d9-b971-4187-b3d4-f530bfcd03c2">
+
 
 -------------------------------------------------------------------------------------------------------------------
 
