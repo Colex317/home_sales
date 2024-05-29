@@ -6,7 +6,7 @@ In this challenge, SparkSQL is used to determine key metrics about home sales da
 
 ## Files Included
 
-Home_Sales.ipynb
+[Home_Sales.ipynb](https://github.com/Colex317/home_sales/blob/main/Home_Sales.ipynb)
 
 
 ## Steps
